@@ -8,7 +8,6 @@ h1 {
   color: #000000;
   font-size: small;
   background-color: #fffdfd;
-  display: ;
 }
 header {
   display: flex;
@@ -38,4 +37,8 @@ video {
   height: 100%;
   z-index: -1;
   object-fit: cover;
+}
+img {
+  width: 100%;
+  height: auto;
 }
