@@ -23,7 +23,7 @@ p {
   color: #000000;
   font-size: 12px;
   display: flex;
-  border: 6px solid #000000;
+  border: 2px solid #000000;
   border-radius: 10px;
   padding: 10px;
   display: inline-block;
