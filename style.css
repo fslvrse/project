@@ -9,7 +9,7 @@ h1 {
   color: #000000;
   font-size: small;
 }
-nav {
+header {
   display: flex;
   justify-content: center;
   align-items: center;
