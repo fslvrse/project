@@ -29,6 +29,9 @@ p {
   display: inline-block;
   background-color: #ffffff;
 }
+img {
+}
+
 video {
   position: fixed;
   top: 0;
@@ -52,4 +55,34 @@ footer {
   padding: 10px;
   background-color: #000000;
   color: #f0f0f0;
+  border-radius: 20px;
+}
+
+image {
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #000000;
+  color: #f0f0f0;
+  border-radius: 20px;
+  width: 200;
+  height: 200;
+}
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f0eaea;
+  color: #944848;
+  border-radius: 20px;
+}
+img {
+  float: right;
+  margin: 10px;
+  border: #000000;
+  border-radius: 20px;
 }
