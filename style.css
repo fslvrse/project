@@ -44,3 +44,12 @@ video {
   padding: 10px;
   background-color: #ffffff;
 }
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #000000;
+  color: #f0f0f0;
+}
