@@ -70,16 +70,7 @@ image {
   width: 200;
   height: 200;
 }
-button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 20px;
-  padding: 10px;
-  background-color: #f0eaea;
-  color: #944848;
-  border-radius: 20px;
-}
+
 img {
   float: right;
   margin: 10px;
