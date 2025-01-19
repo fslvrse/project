@@ -1,4 +1,4 @@
-# Project Title
+# lens&light.co
 its a personal photography website.
 ## Authors
 
